@@ -14,7 +14,7 @@ Small Business Owners:
 •	Local Businesses: Brick-and-mortar businesses with online presence.
  
 main page:
- 
+![image](https://github.com/user-attachments/assets/a25c0c63-e571-4e3d-890d-729edbb1ce61)
 
 New Arrival page:
  
@@ -36,4 +36,4 @@ Siddharth Bhogla
 
 
 
-![image](https://github.com/user-attachments/assets/a25c0c63-e571-4e3d-890d-729edbb1ce61)
+
