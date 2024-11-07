@@ -14,7 +14,8 @@ Small Business Owners:
 •	Local Businesses: Brick-and-mortar businesses with online presence.
  
 main page:
-![image](https://github.com/user-attachments/assets/a25c0c63-e571-4e3d-890d-729edbb1ce61)
+![Screenshot 2024-11-07 at 1 28 50 PM](https://github.com/user-attachments/assets/f32d66aa-25ac-4efd-8c5a-2b729f210f69)
+
 
 New Arrival page:
  
